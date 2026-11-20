@@ -1,3 +1,7 @@
+> **Note:** I am really sorry. I have not been paid for the work I did on this project, and there has been a lot of miscommunication with the broker who arranged it. Until that is resolved, my changes are not available here.
+
+---
+
 # JavaFX Expense Tracker
 
 A full-stack, data-driven desktop application for managing personal expenses. This application allows users to track their spending with full CRUD (Create, Read, Update, Delete) functionality, visualize monthly summaries with a pie chart, and export data to a CSV file.
